@@ -34,9 +34,9 @@ Este projeto tem como foco o uso de **nós encadeados** para organizar os dados 
    gcc -o agenda agenda.
    ```
 3. Execute o programa:
-```bash
-./agenda
-```
+   ```bash
+   ./agenda
+   ```
 
 ## 📞 Exemplo de Uso
 
