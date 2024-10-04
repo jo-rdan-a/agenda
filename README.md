@@ -48,6 +48,7 @@ Selecione uma operação:
 4. Mostrar lista de contatos
 5. Pesquisar contato por nome
 X. Sair
+
 >> Opção: 2
 >> Digite o nome: John Doe
 >> Digite o telefone: 1234-5678
