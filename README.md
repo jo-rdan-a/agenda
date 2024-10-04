@@ -26,17 +26,17 @@ Este projeto tem como foco o uso de **nós encadeados** para organizar os dados 
 ## 💻 Como rodar o projeto
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/projeto-agenda.git
-   ```
+```bash
+git clone https://github.com/seuusuario/projeto-agenda.git
+```
 2. Compile o código:
-   ```bash
-   gcc -o agenda agenda.
-   ```
+```bash
+gcc -o agenda agenda.
+```
 3. Execute o programa:
-   ```bash
-   ./agenda
-   ```
+```bash
+./agenda
+```
 
 ## 📞 Exemplo de Uso
 
