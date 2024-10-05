@@ -77,19 +77,19 @@ Você pode adicionar o caminho manualmente executando o seguinte comando no term
 ## 📞 Exemplo de Uso
 
 ```plaintext
-Selecione uma operação:
-1. Criar Agenda
-2. Inserir contato
-3. Remover contato
-4. Mostrar lista de contatos
-5. Pesquisar contato por nome
-X. Sair
+   Selecione uma operação:
+   1 . Criar Agenda
+   2. Inserir contato
+   3. Remover contato
+   4. Mostrar lista de contatos
+   5. Pesquisar contato por nome
+   X. Sair
 
->> Opção: 2
->> Digite o nome: Jordana
->> Digite o telefone: 1234-5678
->> Digite o email: jord@email.com
->> Contato inserido no início.
+   >> Opção: 2
+   >> Digite o nome: Jordana
+   >> Digite o telefone: 1234-5678
+   >> Digite o email: jord@email.com
+   >> Contato inserido no início.
 ```
 
 ## 🖼️ Parte Visual
