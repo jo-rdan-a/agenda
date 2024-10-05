@@ -31,19 +31,19 @@ Este projeto tem como foco o uso de **nós encadeados** para organizar os dados 
    Baixe e instale o MSYS2. Após a instalação, siga os passos abaixo:
 
    - Abra o terminal MSYS2 e atualize os pacotes:
-     ```bash
-     pacman -Syu
-     ```
+   ```bash
+      pacman -Syu
+   ```
    - Reinicie o terminal e continue a atualização:
-     ```bash
-     pacman -Su
-     ```
+   ```bash
+      pacman -Su
+   ```
 
 2. **Instalar GTK e Ferramentas de Desenvolvimento**  
    No terminal MSYS2, instale o GTK3 e o conjunto de ferramentas de desenvolvimento:
    ```bash
-   pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-toolchain
-   pacman -S mingw-w64-x86_64-toolchain mingw-w64-x86_64-pkg-config
+      pacman -S mingw-w64-x86_64-gtk3 mingw-w64-x86_64-toolchain
+      pacman -S mingw-w64-x86_64-toolchain mingw-w64-x86_64-pkg-config
    ```
 
    ## 💻 Compilação e Execução
@@ -51,18 +51,18 @@ Este projeto tem como foco o uso de **nós encadeados** para organizar os dados 
 3. **Compilação e Execução**  
    Navegue até o seu diretório, por exemplo:
    ```bash
-   cd /c/Users/Aluno/Desktop/atividade
+      cd /c/Users/Aluno/Desktop/atividade
    ```
 
 Compile o código usando o GCC no terminal MSYS2:
 
 ```bash
-gcc -o agenda agenda.c `pkg-config --cflags --libs gtk+-3.0`
-Execute o programa:
+   gcc -o agenda agenda.c `pkg-config --cflags --libs gtk+-3.0`
 ```
 
+Execute o programa:
 ```bash
-./agenda.exe
+   ./agenda.exe
 ```
 
 4. Verificar o PATH
@@ -71,7 +71,7 @@ Se após a instalação houver problemas com os comandos gcc ou pkg-config, voc�
 Você pode adicionar o caminho manualmente executando o seguinte comando no terminal do MSYS2:
 
 ```bash
-export PATH=/mingw64/bin:$PATH
+   export PATH=/mingw64/bin:$PATH
 ```
 
 ## 📞 Exemplo de Uso
