@@ -92,5 +92,5 @@ X. Sair
 >> Contato inserido no início.
 ```
 
-## 📞 Parte Visual
+## 🖼️ Parte Visual
 ![Agenda](AgendaVisual.JPG)
