@@ -93,4 +93,4 @@ X. Sair
 ```
 
 ## 📞 Parte Visual
-![Agenda](AgendaVisual.jpg)
+![Agenda](AgendaVisual.JPG)
